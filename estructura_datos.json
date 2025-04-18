@@ -1,0 +1,26 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "correo": "juan@example.com"
+      }
+    ],
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Laptop HP",
+        "descripcion": "Laptop con procesador Intel i5 y 8GB RAM",
+        "precio": 650.00,
+        "stock": 10
+      },
+      {
+        "id": 2,
+        "nombre": "Mouse Logitech",
+        "descripcion": "Mouse inalámbrico con sensor óptico",
+        "precio": 25.99,
+        "stock": 50
+      }
+    ]
+  }
+  
